@@ -1,2 +1,6 @@
-# Causal-inference
-My personal interests are stacked here!
+## ✏️: Causal Inference
+
+- 통계학에서 제일 좋아하는 방법론
+- 학위 논문 쓸 때 짰던 코드 올려두는 곳  
+- 항상 더 깊이 공부하고 싶은 주제
+  
