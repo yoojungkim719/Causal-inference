@@ -1,4 +1,4 @@
-## ✏️: Causal Inference
+## ✏️Causal Inference
 
 - 통계학에서 제일 좋아하는 방법론
 - 학위 논문 쓸 때 짰던 코드 올려두는 곳  
